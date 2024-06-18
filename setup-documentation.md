@@ -2,7 +2,8 @@
 Task: Choose and install an operating system. For this project, we will use Windows 11.
 Luckily My laptop was already up to date, with Windows 11 this was confirmed after downloading the Windows 11 installation assistant.
 
-![Windows11 installation assistant](C:\Users\phila\github-classroom\Powerlearnproject\se-assignment-1-setting-up-your-developer-environment-Philazen8\Screenshots\Screenshot_18-6-2024_134856_www.microsoft.com.jpeg)
+![Windows11 installation assistant](Screenshots/Screenshot_18-6-2024_134856_www.microsoft.com.jpeg)
+
 
 
 2. Install Visual Studio Code
@@ -16,8 +17,10 @@ Select the appropriate version for Windows and download the installer.
 Install VS Code:
 
 Add Visual studio Code extensions for a smoother experience.
-![Visual Studio code download page](C:\Users\phila\github-classroom\Powerlearnproject\se-assignment-1-setting-up-your-developer-environment-Philazen8\Screenshots\Screenshot_18-6-2024_135016_code.visualstudio.com.jpeg)
-![VSCODE-EXTENSIONS](C:\Users\phila\github-classroom\Powerlearnproject\se-assignment-1-setting-up-your-developer-environment-Philazen8\Screenshots\VSCODE EXTENSIONS.png)
+![Visual Studio code download page](Screenshots/Screenshot_18-6-2024_135016_code.visualstudio.com.jpeg)
+
+![VSCODE-EXTENSIONS](Screenshots/VSCODE%20EXTENSIONS.png)
+
 
 3. Set Up Version Control System
 Task: Install Git, configure it, and initialize a Git repository.
@@ -28,10 +31,12 @@ Install Git:
 Visit the Git download page.
 Download and run the Git installer.
 Follow the installation steps, choosing the default options.
-![Git-download-page](C:\Users\phila\github-classroom\Powerlearnproject\se-assignment-1-setting-up-your-developer-environment-Philazen8\Screenshots\Screenshot_18-6-2024_14730_git-scm.com.jpeg)
+![Git-download-page](Screenshots/Screenshot_18-6-2024_14730_git-scm.com.jpeg)
+
 
 I then confirmed that I had installed the correct git version since it was installed some time back.
-![Git-version-confirmation](C:\Users\phila\github-classroom\Powerlearnproject\se-assignment-1-setting-up-your-developer-environment-Philazen8\Screenshots\Screenshot 2024-06-18 150326.png)
+![Git-version-confirmation](Screenshots/Screenshot%202024-06-18%20150326.png)
+
 
 Create a GitHub Account:
 
@@ -44,8 +49,10 @@ Open a terminal or Git Bash.
 Navigate to the directory where you want to store your local copy of the repository:
 Run the clone command:
 Navigate to the cloned repository:
-![github-access-url](C:\Users\phila\github-classroom\Powerlearnproject\se-assignment-1-setting-up-your-developer-environment-Philazen8\Screenshots\Screenshot_18-6-2024_141642_github.com.jpeg)
-![git-bash-github](C:\Users\phila\github-classroom\Powerlearnproject\se-assignment-1-setting-up-your-developer-environment-Philazen8\Screenshots\cloning github repo on git bash.png)
+![github-access-url](Screenshots/Screenshot_18-6-2024_141642_github.com.jpeg)
+
+![git-bash-github](Screenshots/cloning%20github%20repo%20on%20git%20bash.png)
+
 
 4. Install Necessary Programming Languages and Runtimes
 Task: Install Python and other required programming languages and tools.
@@ -70,7 +77,8 @@ Verify pip Installation:
 
 pip is installed by default with Python. Verify it by running:
 
-![python-pip-verification](C:\Users\phila\github-classroom\Powerlearnproject\se-assignment-1-setting-up-your-developer-environment-Philazen8\Screenshots\python verification.png)
+![python-pip-verification](Screenshots/python%20verification.png)
+
 
 
 6. Configure a Database (MySQL)
@@ -87,15 +95,18 @@ Run the downloaded installer.
 Choose the "Developer Default" setup type.
 Follow the installation steps, setting the root password and creating a MySQL user if prompted.
 Complete the installation.
-![mysql-download-page](C:\Users\phila\github-classroom\Powerlearnproject\se-assignment-1-setting-up-your-developer-environment-Philazen8\Screenshots\Screenshot_17-6-2024_10157_dev.mysql.com.jpeg)
+![mysql-download-page](Screenshots/Screenshot_17-6-2024_10157_dev.mysql.com.jpeg)
+
 
 Logged in to MySQL and created a database.
-![mysql-login](C:\Users\phila\github-classroom\Powerlearnproject\se-assignment-1-setting-up-your-developer-environment-Philazen8\Screenshots\Screenshot 2024-06-18 162517.png)
+![mysql-login](Screenshots/Screenshot%202024-06-18%20162517.png)
+
 
 Intergrate MySQL with project
 Installed MySQL connector for python
 
-![connect-mysql-python](C:\Users\phila\github-classroom\Powerlearnproject\se-assignment-1-setting-up-your-developer-environment-Philazen8\Screenshots\Screenshot 2024-06-18 163113.png)
+![connect-mysql-python](Screenshots/Screenshot 2024-06-18 163113.png)
+
 
 10. Reflection on Challenges and Solutions
 Challenges Faced:
