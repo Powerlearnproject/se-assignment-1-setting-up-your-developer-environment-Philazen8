@@ -105,7 +105,8 @@ Logged in to MySQL and created a database.
 Intergrate MySQL with project
 Installed MySQL connector for python
 
-![connect-mysql-python](Screenshots/Screenshot 2024-06-18 163113.png)
+![connect-mysql-python](Screenshots/Screenshot%202024-06-18%20163113.png)
+
 
 
 10. Reflection on Challenges and Solutions
