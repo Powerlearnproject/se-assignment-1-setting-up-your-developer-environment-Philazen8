@@ -97,6 +97,15 @@ Installed MySQL connector for python
 
 ![connect-mysql-python](C:\Users\phila\github-classroom\Powerlearnproject\se-assignment-1-setting-up-your-developer-environment-Philazen8\Screenshots\Screenshot 2024-06-18 163113.png)
 
+10. Reflection on Challenges and Solutions
+Challenges Faced:
+1.Making sure that my python and MySQL were in the correct path took a lot of trial and error.
+
+Strategies Employed:
+Detailed Step-by-Step Guide: Ensuring every step is documented clearly with accompanying screenshots.
+Troubleshooting: Referencing official documentation and online resources for troubleshooting any issues encountered.
+
+
 
 
 
